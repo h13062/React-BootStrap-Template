@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Sources
+bs5 intro: https://www.youtube.com/watch?v=xdXd8BJwJ-U
+bs5 tutorial: https://www.youtube.com/watch?v=l2131Rok8XU
 
 ## Available Scripts
 
